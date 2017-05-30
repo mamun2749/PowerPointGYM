@@ -1,0 +1,151 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.full_body {
+	background-color: #120C00;
+}
+.header {
+	background-color: #4A3300;
+	border-radius: 20px;
+	
+}
+.img-responsive {
+	width: 100%;
+}
+.logo_image {
+	width: 55%;
+	border-radius: 50%;
+}
+.company_name {
+	
+	text-align: center;
+	text-shadow: 3px 6px 2px #c38e18;
+	color: #ddf7f7;
+}
+.manu {
+	background-color: #383429;
+	margin-top: 3%;
+	border-radius: 20px;
+	box-shadow: -1px 1px 20px 4px #6f6969;
+	text-align: center;
+}
+.manu ul li {
+	cursor: pointer;
+	list-style: none;
+	display: inline-block;
+	font-size: 40px;
+	margin-left: 45px;
+	color: white;
+	
+	border-left: 3px solid white;
+	border-radius: 10px;
+	
+}
+.manu ul li:hover {
+	transform: scale(1.2);
+	
+}
+.slider_section {
+	margin-top: 3%;
+}
+.slider_section img{
+	max-height: 400px;
+	min-width: 80%;
+	margin: 0 auto;
+}
+.book_section {
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+.we_are {
+	margin-right: 20px;
+	box-sizing: border-box;
+	padding: 25px;
+	color:#ddf7f7;
+	background-color: #383429;
+	border-radius: 15px;
+	height: 100%;
+	box-shadow: -1px 1px 20px 4px #6f6969;
+}
+.service_image {
+	height: 200px;
+}
+.content_one {
+	box-shadow: -1px 1px 20px 4px #6f6969;
+	margin-bottom: 5%;
+}
+.ContentOne_image {
+	height: 500px;
+	border-radius: 15px;
+}
+.ContentOne_text {
+	height: 500px;
+	background-image: url(images7.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	border-radius: 15px;
+	color: white;
+	padding-left: 30px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.content_Two {
+	box-shadow: -1px 1px 20px 4px #6f6969;
+	margin-bottom: 5%;
+}
+.ContentTwo_text {
+	height: 500px;
+	background-image: url(images7.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	border-radius: 15px;
+	color: white;
+	padding-left: 30px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.ContentTwo_image {
+	height: 500px;
+	border-radius: 15px;
+}
+.footer {
+	
+	background-color: #332F24;
+}
+.footer_left {
+	
+	
+	text-align: center;
+
+}
+.footer_left p{
+	font-size: 20px;
+	color: #ddf7f7;
+	
+
+}
+.footer_left span {
+	margin-left: 50px;
+}
+.footer_left span i{
+	color: white;
+	height: 50px;
+	width: 50px;
+	line-height: 50px;
+	border-radius: 50%;
+	border: 2px solid white;
+	font-size: 40px;
+	text-align: center;
+}
+.footer_right {
+	text-align: center;
+}
+.footer_right p{
+	font-weight: bold;
+	
+	color: #ddf7f7;
+	
+	
+
+}
